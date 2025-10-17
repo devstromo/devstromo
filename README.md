@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"><strong> Kotlin • Java • Dart • C • Go • Lua • (some) COBOL<br>Flutter • Android (Jetpack Compose, Koin)<br>Spring Boot 3 • Maven • Apache Camel<br>Angular • SQLite • Flyway • Git • CI/CD</strong></p>
+<p align="left"><strong> Kotlin • Java • Dart • C • Go • Lua • (some) COBOL<br>Flutter • Android (Jetpack Compose, Koin)<br>Spring Boot 3 • Maven • Apache Camel<br>Angular • SQLite • Postgresql • Flyway • Git • CI/CD</strong></p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- Small PRs, strong naming, tests that actually test.<br>- Prototype → measure → simplify → document.<br>- Architecture future-me won’t hate (or the ship’s cat Jonesy will judge me).</p>
+<p align="left">- Small PRs, strong naming, tests that actually test.<br>- Prototype → measure → simplify → document.<br>- Architecture future-me won’t hate (or the ship's cat Jonesy will judge me).</p>
 
 ###
 
