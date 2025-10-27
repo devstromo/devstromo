@@ -12,14 +12,6 @@
 
 ###
 
-<h2 align="left">What I’m working on</h2>
-
-###
-
-<p align="left">- <strong>Promoruta (Flutter):</strong> geo-routed audio promos (routes, GPS, payments).<br>- <strong>DailySeed (Android/Compose):</strong> habit tracker with notifications & Koin.<br>- <strong>Angular practice:</strong> small apps exploring components, routing & state.<br>- <strong>Algorithms repo (Kotlin) + a C learning track:</strong> LV-426 side quests.<br>- <strong>Practice lab:</strong> assorted experiments in Go, Lua, COBOL, and more, CLI tools, parsers, mini services, and performance notes.</p>
-
-###
-
 <h2 align="left">Toolbelt</h2>
 
 ###
